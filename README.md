@@ -11,7 +11,7 @@ The RED cross sign appears after some interval of time in the game, which symbol
 
 Download Executable
 ---
-[Folder.exe (3 Mb)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Folder.exe.zip)
+[Folder.exe (3 Mb)](https://github.com/BitSits/Folder.exe/raw/master/Folder.exe.zip)
 
 
 Instructions
